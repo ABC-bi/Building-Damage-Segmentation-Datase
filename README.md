@@ -6,7 +6,7 @@ This repository provides the building surface damage segmentation dataset and re
 
 ## Data Availability
 
-The datasets used and analyzed during the current study are available from the corresponding author upon reasonable request. Related materials will be made available in this repository.
+The datasets used and analyzed during the current study are available from the corresponding author upon reasonable request via lijiaqi@ustl.edu.cn. Related materials will be made available in this repository.
 
 ## License
 
